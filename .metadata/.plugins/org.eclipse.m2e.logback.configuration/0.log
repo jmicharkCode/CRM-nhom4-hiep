@@ -1,0 +1,18 @@
+2022-04-09 19:57:33,331 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-09 19:57:55,929 [Worker-18: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cybersoft.javabackend.java14:java14crmgv:0.0.1-SNAPSHOT @ D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\pom.xml.
+2022-04-09 19:58:00,136 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 19:58:00,137 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\main\resources
+2022-04-09 19:58:00,152 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 19:58:00,153 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\test\resources
+2022-04-09 19:59:52,217 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 19:59:52,218 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\main\resources
+2022-04-09 19:59:52,219 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 19:59:52,220 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\test\resources
+2022-04-09 20:03:38,240 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 20:03:38,241 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\main\resources
+2022-04-09 20:03:38,242 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 20:03:38,243 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\test\resources
+2022-04-09 20:04:00,937 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 20:04:00,937 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\main\resources
+2022-04-09 20:04:00,940 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-09 20:04:00,941 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Cyber\CRM-Nhom4\crm-app-main\java16-crm-nhom-4\src\test\resources
